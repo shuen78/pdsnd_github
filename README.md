@@ -1,5 +1,6 @@
-### Date Created
+### Date Created & Submission
 This project was created on the 01st May 2020 and this readme.me file was created on the 25th May 2020.
+This project was submitted on 19th May 2020 and this readme.me file is yet to be submitted as part of the GitHub project for the Udacity Programming for Data Science course.
 
 ### Programming for Data Science: Bikeshare Python Data Analysis
 
